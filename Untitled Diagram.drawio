@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T06:38:55.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ycR8DphMDjzRXWsVqVS1" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T06:48:35.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="0mzo3TwX6mfpnZSWMhNX" version="23.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="832" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="51jENdeckKf1wH_rOTbU-59" value="Visit&amp;nbsp; Cebu Safari and Adventure Park" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="51jENdeckKf1wH_rOTbU-60" value="Countryside Tour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-61" value="Island tour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -204,7 +204,7 @@
             <Array as="points">
               <mxPoint x="280" y="1040" />
               <mxPoint x="360" y="1040" />
-              <mxPoint x="370" y="560" />
+              <mxPoint x="360" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -256,7 +256,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="51jENdeckKf1wH_rOTbU-88" value="Nature tour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -271,7 +271,10 @@
         <mxCell id="51jENdeckKf1wH_rOTbU-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1180" as="sourcePoint" />
-            <mxPoint x="480" y="1210" as="targetPoint" />
+            <mxPoint x="570" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -285,13 +288,13 @@
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-111" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1050" as="sourcePoint" />
-            <mxPoint x="720" y="1080" as="targetPoint" />
+            <mxPoint x="720" y="960" as="sourcePoint" />
+            <mxPoint x="720" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-117" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="51jENdeckKf1wH_rOTbU-111">
           <mxGeometry x="-0.2667" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-20" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="51jENdeckKf1wH_rOTbU-116">
@@ -307,26 +310,17 @@
         <mxCell id="51jENdeckKf1wH_rOTbU-116" value="Choose different&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Destination" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="1080" width="120" height="60" as="geometry" />
+        <mxCell id="51jENdeckKf1wH_rOTbU-118" value="Visit&amp;nbsp; Chocolate hills Adventure Park" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="51jENdeckKf1wH_rOTbU-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="51jENdeckKf1wH_rOTbU-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1140" as="sourcePoint" />
-            <mxPoint x="720" y="1170" as="targetPoint" />
+            <mxPoint x="719.5" y="1050" as="sourcePoint" />
+            <mxPoint x="719.5" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1240" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-123" value="Day of the Week" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="1170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="719.5" y="1230" as="sourcePoint" />
-            <mxPoint x="719.5" y="1270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="51jENdeckKf1wH_rOTbU-125" value="End of the week?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="1280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="51jENdeckKf1wH_rOTbU-126" value="Choose different&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Destination" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="172" y="1200" width="120" height="60" as="geometry" />
@@ -348,6 +342,9 @@
           <mxGeometry x="-0.9093" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="51jENdeckKf1wH_rOTbU-133" value="End of the week" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="1211" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
